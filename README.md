@@ -6,4 +6,9 @@ You can use this to speed up any project for personal or commercial work. All I 
 
 This project was created by <a href="http://sangiorg.io">Chris Sangiorgio</a> of <a href="mediazoomdesign.com">Media Zoom Design</a>
 
+Special thanks to: 
+https://gist.github.com/joshuapowell/
+http://lesselements.com
+github.com/geddski
+
 We are now in BETA. Let us know what you think, make your own contributions!
