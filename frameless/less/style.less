@@ -10,6 +10,9 @@
 @text-color: black;
 @link-color: red; 
 
+@selected-text-bg-color: orangered;
+@selected-text-color: white;
+
 // Fonts
 
 @main-font-family: "Georgia";
@@ -27,6 +30,10 @@
 // --------------------------------------------------
 // --------------------------------------------------
 
+::selection {
+    background-color: @selected-text-bg-color; 
+    color: @selected-text-color; 
+}
 
 .grid-contain {
     display: block;
@@ -124,8 +131,7 @@ header {
             
             li {
                 margin: 0;
-                padding: 0;
-                
+                padding: 0;                
             }
         }
     }
